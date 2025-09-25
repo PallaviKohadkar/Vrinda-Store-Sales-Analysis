@@ -54,3 +54,6 @@ Focus on Maharashtra, Karnataka, and Uttar Pradesh for higher sales conversion.
 Improve partnerships with Amazon, Flipkart, and Myntra to maximize growth.
 
 Strengthen order return & refund management (currently at 8%).
+
+<img width="1661" height="741" alt="Vrinda store sales analysis" src="https://github.com/user-attachments/assets/fe89a258-a133-48a4-ae54-b2b9c6140fb4" />
+
